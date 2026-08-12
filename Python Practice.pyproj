@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>23defad7-2771-4543-bedc-2ab94a97a219</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>largest_of_three.py</StartupFile>
+    <StartupFile>fizzbuzz.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="fizzbuzz.py" />
     <Compile Include="odd_even.py" />
     <Compile Include="largest_of_three.py" />
   </ItemGroup>
